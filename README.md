@@ -1,1 +1,1 @@
-# wizualizacja_pyt
+## Wizualizacja danych w języku python
